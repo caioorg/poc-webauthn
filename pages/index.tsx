@@ -57,8 +57,7 @@ const Home: NextPage = () => {
 
   return (
     <div>
-      <h1>Funcionando</h1>
-      <button onClick={simpleAuth}>teste</button>
+      <button onClick={simpleAuth}>Autenticar</button>
     </div>
   )
 }
